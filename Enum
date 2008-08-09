@@ -1,0 +1,7 @@
+# This was cloned from a TextMate bundle for yasnippet.
+# --
+include Enumerable
+
+def each(&block)
+	$0
+end

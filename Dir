@@ -1,0 +1,3 @@
+#name : Dir.glob("..") do |file| .. end
+# --
+Dir.glob(${1:"dir/glob/*}") { |${2:file}| $0 }

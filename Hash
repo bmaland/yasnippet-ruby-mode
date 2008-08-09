@@ -1,0 +1,3 @@
+# This was cloned from a TextMate bundle for yasnippet.
+# --
+Hash.new { |${1:hash}, ${2:key}| ${1:hash}[${2:key}] = $0 }
