@@ -1,3 +1,4 @@
+# -*- mode: yasnippet -*-
 #name : if ... end
 # --
 if ${1:condition}
