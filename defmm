@@ -1,5 +1,5 @@
 # This was cloned from a TextMate bundle for yasnippet.
 # --
 def method_missing(meth, *args, &blk)
-	$0
+  $0
 end
