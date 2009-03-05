@@ -1,4 +1,4 @@
 #name : reject { |...| ... }
-#group : collections
+#group : Enumerables
 # --
 reject { |${1:element}| $0 }

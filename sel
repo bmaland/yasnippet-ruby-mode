@@ -1,3 +1,4 @@
 #name : select { |e| .. }
+#group : Enumerables
 # --
 select { |${e}| $0 }
