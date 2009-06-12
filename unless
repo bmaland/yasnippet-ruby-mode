@@ -1,5 +1,6 @@
 # -*- mode: yasnippet -*-
 #name : unless ... end
+#group : Conditions
 # --
 unless ${1:condition}
   $0
