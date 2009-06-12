@@ -15,7 +15,8 @@ in TextMate. I.e, the reject snippet is here triggered with 'rej' instead of
 
 ## Contributors
 
-* Bjørn Arild Mæland <bjorn.maeland at gmail.com>
-* Jean-Sébastien Ney <jeansebastien.ney at gmail.com>
+* [Bjørn Arild Mæland](http://github.com/Chrononaut)
+* [Jean-Sébastien Ney](http://github.com/jney)
+* [John Andrews](http://github.com/jxa)
 
 Thanks to Jeff Wheeler for his work on the snippet_copier.py script!

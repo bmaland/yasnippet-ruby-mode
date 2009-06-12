@@ -1,0 +1,5 @@
+#name : it "should be rspec"
+# --
+it "$1" do
+  $0
+end
