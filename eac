@@ -1,4 +1,5 @@
 #name : each_cons(...) { |...| ... }
 #group : Enumerables
+# key: eac
 # --
 each_cons(${1:2}) { |${group}| $0 }

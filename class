@@ -1,6 +1,7 @@
 #name : class ... end
 #contributor : hitesh <hitesh.jasani@gmail.com>
 #group : definitions
+# key: class
 # --
 class ${1:$
          (let ((fn (capitalize (file-name-nondirectory

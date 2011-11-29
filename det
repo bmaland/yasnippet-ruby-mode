@@ -1,4 +1,5 @@
 #name : detect { |...| ... }
 #group : Enumerables
+# key: det
 # --
 detect { |${e}| $0 }

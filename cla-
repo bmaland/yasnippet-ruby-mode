@@ -1,5 +1,6 @@
 #name : class .. < DelegateClass .. initialize .. end  (class)
 #group : definitions
+# key: cla-
 # --
 class ${1:ClassName} < DelegateClass(${2:ParentClass})
   def initialize(${3:args})

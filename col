@@ -1,4 +1,5 @@
 #name : collect { |e| ... }
 #group : Enumerables
+# key: col
 # --
 collect { |${e}| $0 }

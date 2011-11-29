@@ -1,6 +1,7 @@
 #-*- require-final-newline: nil -*-
 #contributor: gary <ge.iams@gmail.com>
 #name : Scenario
+# key: sce
 # --
 Scenario '${1:title}' do
   Given '${2:given}'

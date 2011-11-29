@@ -1,6 +1,7 @@
 #-*- require-final-newline: nil -*-
 #contributor: gary <ge.iams@gmail.com>
 #name : should_not throw
+# key: shnt
 # --
 lambda { ${1: } }.should_not throw_symbol(:${2:symbol})
 $0

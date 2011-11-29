@@ -1,3 +1,4 @@
 # This was cloned from a TextMate bundle for yasnippet.
+# key: eac-
 # --
 each_char { |${1:chr}| $0 }

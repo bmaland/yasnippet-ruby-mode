@@ -1,6 +1,7 @@
 #-*- require-final-newline: nil -*-
 #contributor: gary <ge.iams@gmail.com>
 #name : should have_at_least
+# key: shhal
 # --
 ${1:target}.should have_at_least(${2:num}).${3:things}
 $0

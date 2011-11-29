@@ -1,4 +1,5 @@
 #name: setup do ... end
+# key: set
 # --
 setup do
   $1

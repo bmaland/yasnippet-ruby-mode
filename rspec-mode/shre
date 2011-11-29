@@ -1,6 +1,7 @@
 #-*- require-final-newline: nil -*-
 #contributor: gary <ge.iams@gmail.com>
 #name : should raise_error
+# key: shre
 # --
 lambda { ${1: } }.should raise_error(${2:error})
 $0

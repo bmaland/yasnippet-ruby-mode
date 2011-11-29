@@ -1,4 +1,5 @@
 #name : validates_uniqueness_of : ... 
 #group: ActiveRecord
+# key: vu
 # --
 validates_uniqueness_of :${attr}

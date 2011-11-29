@@ -1,4 +1,5 @@
 # This was cloned from a TextMate bundle for yasnippet.
+# key: bm-
 # --
 TESTS = ${1:10_000}
 Benchmark.bmbm do |results|

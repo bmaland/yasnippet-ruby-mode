@@ -1,4 +1,5 @@
 #name : validates_associated : ... 
 #group: ActiveRecord
+# key: va
 # --
 validates_associated :${attr}

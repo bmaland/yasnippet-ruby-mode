@@ -1,5 +1,6 @@
 #name : while ... end
 #group : Loops
+# key: while
 # --
 while ${condition}
   $0

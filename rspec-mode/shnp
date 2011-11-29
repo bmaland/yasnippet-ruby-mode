@@ -1,5 +1,6 @@
 #-*- require-final-newline: nil -*-
 #contributor: gary <ge.iams@gmail.com>
 #name : should_not predicate
+# key: shnp
 # --
 ${1:target}.should_not ${2:be_}${3:predicate} $0

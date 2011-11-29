@@ -1,4 +1,5 @@
 #name : assert_redirected_to :controller => " ... "
 #group: assert
+# key: art
 # --
 assert_redirected_to :controller => "${controller}"

@@ -1,4 +1,5 @@
 # This was cloned from a TextMate bundle for yasnippet.
 #group : Enumerables
+# key: fina
 # --
 find_all { |${1:e}| $0 }

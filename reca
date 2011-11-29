@@ -1,4 +1,5 @@
 #name : redirect_to :controller => " ... ", :action => " ... "
 #group: Rails redirect
+# key: reca
 # --
 redirect_to :controller => "${items}", :action => "${list}"

@@ -1,3 +1,4 @@
 #name: $target.stub!(:$message)
+# key: stub
 # --
 ${1:target}.stub!(:${2:message})$0

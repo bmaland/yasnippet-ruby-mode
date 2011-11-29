@@ -1,4 +1,5 @@
 #name : classify { |...| ... }
 #group : collections
+# key: classify
 # --
 classify { |${e}| $0 }
