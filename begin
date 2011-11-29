@@ -1,5 +1,6 @@
 #name : begin ... rescue ... end
 #group : Blocks
+# key: begin
 # --
 begin
   $3

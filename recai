@@ -1,4 +1,5 @@
 #name : redirect_to :controller => " ... ", :action => " ... ", :id =>  ... 
 #group: Rails redirect
+# key: recai
 # --
 redirect_to :controller => "${items}", :action => "${show}", :id => ${@item}

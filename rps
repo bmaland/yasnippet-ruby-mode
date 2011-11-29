@@ -1,4 +1,5 @@
 #name : render :partial => " ... ", :status =>  ... 
 #group: Rails render
+# key: rps
 # --
 render :partial => "${item}", :status => ${500}

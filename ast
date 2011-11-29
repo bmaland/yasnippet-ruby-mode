@@ -1,4 +1,5 @@
 # This was cloned from a TextMate bundle for yasnippet.
 #group : Tests
+# key: ast
 # --
 assert_throws(:${1:expected}) { $0 }

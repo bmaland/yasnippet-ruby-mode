@@ -1,6 +1,7 @@
 #-*- require-final-newline: nil -*-
 #contributor: gary <ge.iams@gmail.com>
 #name : should have_records
+# key: shhr
 # --
 ${1:target}.should have(${2:x}).records
 $0

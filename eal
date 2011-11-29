@@ -1,3 +1,4 @@
 # This was cloned from a TextMate bundle for yasnippet.
+# key: eal
 # --
 each_line$1 { |${2:line}| $0 }

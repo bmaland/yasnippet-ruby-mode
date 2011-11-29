@@ -1,4 +1,5 @@
 #name : session[: ... ]
 #group: Rails
+# key: ses
 # --
 session[:${user}]

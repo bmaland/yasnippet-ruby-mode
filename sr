@@ -1,3 +1,4 @@
 #name : should_receive(:).and_return()
+# key: sr
 # --
 should_receive(:${1:method}).and_return(${2:return_val})

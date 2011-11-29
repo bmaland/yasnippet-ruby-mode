@@ -1,5 +1,6 @@
 # This was cloned from a TextMate bundle for yasnippet.
 #group : Enumerables
+# key: Enum
 # --
 include Enumerable
 

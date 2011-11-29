@@ -1,4 +1,5 @@
 #name : assert_kind_of  ... ,  ... 
 #group: assert
+# key: ako
 # --
 assert_kind_of ${class}, ${object}

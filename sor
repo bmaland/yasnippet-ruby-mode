@@ -1,4 +1,5 @@
 #name : sort { |a, b| .. }
 #group : Enumerables
+# key: sor
 # --
 sort { |a, b| $0 }

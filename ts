@@ -1,4 +1,5 @@
 # This was cloned from a TextMate bundle for yasnippet.
+# key: ts
 # --
 require "test/unit"
 

@@ -1,4 +1,5 @@
 #name : render :text => " ... ", :layout => " ... "
 #group: Rails render
+# key: rtl
 # --
 render :text => "${Text here...}", :layout => "${layoutname}"

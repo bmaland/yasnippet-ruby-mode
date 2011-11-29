@@ -1,3 +1,4 @@
 # This was cloned from a TextMate bundle for yasnippet.
+# key: eab
 # --
 each_byte { |${1:byte}| $0 }
