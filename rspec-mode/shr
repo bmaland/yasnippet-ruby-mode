@@ -1,5 +1,6 @@
 #-*- require-final-newline: nil -*-
 #contributor: gary <ge.iams@gmail.com>
 #name : should_receive
+# key: shr
 # --
 ${1:mock}.should_receive(:${2:message})$0

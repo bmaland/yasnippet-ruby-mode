@@ -1,4 +1,5 @@
 #name : render :inline => " ... "
 #group: Rails render
+# key: ri
 # --
 render :inline => "${<%= 'hello' %>}"

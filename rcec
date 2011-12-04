@@ -1,4 +1,5 @@
 #name : render_component :controller => " ... "
 #group: Rails render
+# key: rcec
 # --
 render_component :controller => "${items}"

@@ -1,3 +1,4 @@
 # This was cloned from a TextMate bundle for yasnippet.
+# key: xml-
 # --
 REXML::Document.new(File.read(${1:"${2:path/to/file}"}))

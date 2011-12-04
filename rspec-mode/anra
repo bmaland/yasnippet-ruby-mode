@@ -1,3 +1,4 @@
 #name: and_raise($error)
+# key: anra
 # --
 and_raise(${1:RuntimeError})$0

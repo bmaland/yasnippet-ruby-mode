@@ -1,4 +1,5 @@
 #name : validates_exclusion_of : ... 
 #group: ActiveRecord
+# key: ve
 # --
 validates_exclusion_of :${attr}

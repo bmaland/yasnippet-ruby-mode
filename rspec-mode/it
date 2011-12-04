@@ -1,4 +1,5 @@
 #name: it "should do something" do ... end
+# key: it
 # --
 it "should ${1:do something}" do
   $0

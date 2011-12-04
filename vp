@@ -1,4 +1,5 @@
 #name : validates_presence_of : ...
 #group: ActiveRecord
+# key: vp
 # --
 validates_presence_of :${attr}

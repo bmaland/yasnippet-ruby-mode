@@ -1,4 +1,5 @@
 #name : reject { |e| .. }
 #group : Enumerables
+# key: rej
 # --
 reject { |${1:e}| $0 }

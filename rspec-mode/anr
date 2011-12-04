@@ -1,3 +1,4 @@
 #name: and_return($value)
+# key: anr
 # --
 and_return(${1:value})$0
