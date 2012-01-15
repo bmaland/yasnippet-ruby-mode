@@ -1,7 +1,7 @@
 # -*- mode: yasnippet -*-
 #name : respond_to do |format| ..
 #group : ActionController
-#contributor : Bjørn Arild Mæland [github.com/Chrononaut]
+#contributor : Bjørn Arild Mæland [github.com/bmaland]
 # key: res
 # --
 respond_to do |format|
