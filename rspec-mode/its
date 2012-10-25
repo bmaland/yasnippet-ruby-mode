@@ -1,0 +1,5 @@
+#-*- require-final-newline: nil -*-
+#name : its
+# key: its
+# --
+its(:${1}) { should $0 }
