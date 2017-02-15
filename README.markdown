@@ -12,7 +12,7 @@ The Rails snippets were originally borrowed from
 
 The RSpec snippets require that RSpec files are edited in a separate
 Emacs mode. I recommend using
-[rspec-mode.el](http://github.com/pezra/rspec-mode.el/tree/master).
+[rspec-mode](http://github.com/pezra/rspec-mode/tree/master).
 The RSpec snippets were originally borrowed from
 [gary/yasnippets-rspec](http://github.com/gary/yasnippets-rspec/tree/master).
 
