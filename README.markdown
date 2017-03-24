@@ -8,7 +8,7 @@ The collection also contains snippets for major Ruby frameworks like Rails
 and RSpec.
 
 The Rails snippets were originally borrowed from
-[mknittig/yasnippet-rails](http://github.com/eschulte/yasnippets-rails/tree).
+[mknittig/yasnippet-rails](http://github.com/eschulte/yasnippets-rails/tree/master).
 
 The RSpec snippets require that RSpec files are edited in a separate
 Emacs mode. I recommend using
